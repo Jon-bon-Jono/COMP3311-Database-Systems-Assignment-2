@@ -7,7 +7,7 @@ Working with a copy of the Internet Movie Database (aka IMDB). This database has
 
 *ass2.sql contains my queries
 
-*imdb.sql contains the database
+*~~imdb.sql contains the database~~ file is too big for github
 
 *schema.sql contain the database schema
 
