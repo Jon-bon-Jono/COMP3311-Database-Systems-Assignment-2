@@ -5,13 +5,13 @@
 Assignment for COMP3311 Database Systems.
 Working with a copy of the Internet Movie Database (aka IMDB). This database has information about movies, TV series, actors, directors, etc. The database for the assignment is actually a very small subset of the complete IMDB database. The actual database is over 50GB. 
 
-ass2.sql contains my queries
+*ass2.sql contains my queries
 
-imdb.sql contains the database
+*imdb.sql contains the database
 
-schema.sql contain the database schema
+*schema.sql contain the database schema
 
-check.sql is a test harness, implemented as a collection of views and PLpgSQL functions
+*check.sql is a test harness, implemented as a collection of views and PLpgSQL functions
 
 
 
